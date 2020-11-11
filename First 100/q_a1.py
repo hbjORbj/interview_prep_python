@@ -28,6 +28,6 @@ def migratoryBirds(arr):
     return min(types)
 
 
-print(migratoryBirds([1, 1, 2, 2, 3])) # => 1
-print(migratoryBirds([3, 3, 2, 2, 1, 1])) # => 1
-print(migratoryBirds([3, 1, 2, 2])) # => 2
+print(migratoryBirds([1, 1, 2, 2, 3]))  # => 1
+print(migratoryBirds([3, 3, 2, 2, 1, 1]))  # => 1
+print(migratoryBirds([3, 1, 2, 2]))  # => 2
